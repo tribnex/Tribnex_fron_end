@@ -1,0 +1,3 @@
+# Sitio estático (HTML + CSS + JS), sin paso de compilación.
+[build]
+  publish = "."
